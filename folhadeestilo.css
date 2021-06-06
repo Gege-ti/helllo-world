@@ -1,0 +1,11 @@
+	*{margin: 0;padding: 0;} /* * - Inicia todos os elementos com margin 0 e padding 0 */
+
+	.container-principal{font-family: 'verdana'; color: #777;}
+
+	/* definir as propriedades do topo 
+	width >> largura
+	heigth >> altura */
+	header{width: 100%; height: 100%; background-color: #fff; position: relative; top: 0; }
+
+	/* definir as propriedades do logo */
+	.logo{position: absolute; width: 300px; height: auto;}
