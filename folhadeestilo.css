@@ -1,6 +1,6 @@
 	*{margin: 0;padding: 0;} /* * - Inicia todos os elementos com margin 0 e padding 0 */
 
-	.container-principal{font-family: 'verdana'; color: #777;}
+	.container-principal{font-family: 'Arial'; color: #777;}
 
 	/* definir as propriedades do topo 
 	width >> largura
